@@ -24,7 +24,7 @@ Users are able to sign in, sign up, or use the demo user account to browse the s
 
 ### User Dashboard
 
-![alt text](https://ks-plt.s3-us-west-1.amazonaws.com/instapix/Screen+Shot+2019-06-24+at+1.42.05+PM.png"Instapix Profile")
+![alt text](https://ks-plt.s3-us-west-1.amazonaws.com/instapix/Screen+Shot+2019-06-24+at+1.42.05+PM.png "Instapix Profile")
 
 ## Code Snippet
 
